@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Apple",
+    "category": "Fruits",
+    "price": 1.5,
+    "description": "Fresh red apples - sweet and juicy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+  },
+  {
+    "name": "Banana",
+    "category": "Fruits",
+    "price": 1.2,
+    "description": "Ripe yellow bananas - rich in potassium",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+  },
+  {
+    "name": "Milk",
+    "category": "Dairy Products",
+    "price": 2.5,
+    "description": "Full cream fresh milk 1L",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Milk_glass.jpg"
+  },
+  {
+    "name": "Bread",
+    "category": "Bakery & Breads",
+    "price": 1.8,
+    "description": "Freshly baked whole wheat bread",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bread_Baguette.jpg"
+  },
+  {
+    "name": "Maggi Noodles",
+    "category": "Instant Food",
+    "price": 3.0,
+    "description": "2-Minute instant noodles",
+    "image": "https://www.nestle.in/sites/g/files/pydnoa451/files/maggi-2-minute-masala-noodles.jpg"
+  },
+  {
+    "name": "Coca Cola",
+    "category": "Cold Drinks",
+    "price": 1.5,
+    "description": "Chilled Coca Cola 500ml",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Coca-Cola_bottle_cap.jpg"
+  },
+  {
+    "name": "Broccoli",
+    "category": "Organic Veggies",
+    "price": 2.0,
+    "description": "Fresh organic broccoli",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg"
+  }
+]
